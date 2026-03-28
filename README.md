@@ -1,12 +1,19 @@
-- 👋 Hi, I’m @Rsalunkhe123
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**Digital Marketing & QA Testing Portfolio Project**
 
-<!---
-Rsalunkhe123/Rsalunkhe123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📌 Project Overview
+This project demonstrates my skills in SEO, Google Ads, and Software Testing.
+
+🚀 Features
+- SEO Audit Report
+- Google Ads Campaign Strategy
+- Manual Testing Test Cases
+- Selenium Automation Script
+
+🛠️ Tools Used
+- Google Analytics
+- Google Tag Manager
+- Selenium
+- Postman
+**
+🔗 Live Demo
+https://ritesh32.netlify.app/**
